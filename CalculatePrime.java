@@ -46,7 +46,7 @@ public class CalculatePrime {
               
               catch (NumberFormatException ne) {
                   System.out.println("Input: \""+num+"\"");
-                  System.out.println("Output : \"Only Numbers maybe entered\"");
+                  System.out.println("Output: \"Only Numbers maybe entered\"");
               }
 
 
